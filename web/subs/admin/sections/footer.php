@@ -1,0 +1,1 @@
+<footer class="center-align m-b-30"><a href="https://isim.link">IsimLink</a> tarafından oluşturulmuştur.</footer>
